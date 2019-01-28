@@ -54,7 +54,7 @@ public class Login {
         return isValid;
     }
 
-   /* public static void initLogger() {
+   public static void initLogger() {
         log = Logger.getLogger(Login.class);
         Appender fh = null;
         try {
@@ -68,5 +68,5 @@ public class Login {
             e.printStackTrace();
         }
         log.info("Hi How r u?");
-    }*/
+    }
 }
